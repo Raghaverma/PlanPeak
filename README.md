@@ -1,16 +1,3 @@
-# tasktame
+# PlanPeak 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+As someone who is constantly seeking for methods to increase productivity and fulfil my objectives, I've discovered that having a personal planner is a crucial tool for success. A personal planner is much more than a calendar. It's a complete tool for planning your life and working towards long-term objectives. You may use a personal planner to break down your objectives into smaller, more doable activities and track your progress as you work towards them.This not only keeps you focused and motivated, but it also assures that you are making daily progress towards your goals.
