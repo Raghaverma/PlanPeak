@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073979352267",
+    "project_id": "planpeaklogin",
+    "storage_bucket": "planpeaklogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073979352267:android:00f3e4692b0b8e769a674e",
+        "android_client_info": {
+          "package_name": "com.example.tasktame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073979352267-q1dh7qvq2s951jjc2n6cgv5e49gpe9nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZItKbcDXYdSCOv8PncbbpVJw1QJy7Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073979352267-q1dh7qvq2s951jjc2n6cgv5e49gpe9nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
